@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Unsplash</string>
+    <string name="likes">%s Likes</string>
+</resources>
